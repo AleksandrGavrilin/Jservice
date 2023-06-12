@@ -12,8 +12,6 @@ class QuestionItem:
     questions_num: int
 
 
-# README КАК ЗАПУСКАТЬ ДОКЕР КОМПОСЕ, БЫЛ СОЗДАН ОТДЕЛЬНЫЙ КОНТЕЙНЕР
-
 app = FastAPI()
 root_extended = 'https://jservice.io/api/random?count=1'
 

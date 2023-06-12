@@ -20,3 +20,5 @@ ____
 ____
 **<span style='color:rgb(250, 196, 0)'>Starting a service without a container:</span>**
 uvicorn app.main:app --host "0.0.0.0" --port "8080"
+____
+**You can check the performance of the service by going to the file: testapi.py** 
